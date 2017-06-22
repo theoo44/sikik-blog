@@ -1,0 +1,402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"city",
+				"cityid"
+			],
+			[
+				"fiel",
+				"Field"
+			],
+			[
+				"st",
+				"start_urls"
+			],
+			[
+				"feld",
+				"Field"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sohigh/Desktop/Projects/Django/virt",
+		"/home/sohigh/Desktop/Projects/Django/virt/blog",
+		"/home/sohigh/Desktop/Projects/Django/virt/sikik_blog"
+	],
+	"file_history":
+	[
+		"/home/sohigh/Desktop/Projects/Django/virt/.gitignore",
+		"/home/sohigh/Desktop/Projects/Google/reverse/reverse_geo.py",
+		"/home/sohigh/.cache/.fr-MtFRKg/cities1000.txt",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/yandex.py",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/79.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/yandex.sh",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/1.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/12122.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/12123.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/75.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/74.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/asfas.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/91.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/73.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/69.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/46.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/15.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/6139.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/3268.json",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/2.json",
+		"/home/sohigh/Desktop/Projects/Yandex/yandex_geo.py",
+		"/home/sohigh/Desktop/Projects/Yandex Geocoding/66.json",
+		"/home/sohigh/Desktop/19.06.2017 gelenler.txt",
+		"/home/sohigh/Downloads/maxpuankoordinat.txt",
+		"/home/sohigh/Desktop/Projects/Google/reverse/reverse_geo.sh",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/Abruzzo_1.json",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/Aosta_Valley_2.json",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/hotel.sh",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/scan.py",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/Abruzzo.json",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/test.txt",
+		"/home/sohigh/Desktop/Projects/tam.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/hscanner/settings.py",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/cities.txt",
+		"/home/sohigh/Desktop/Projects/1404eksik.txt",
+		"/home/sohigh/Desktop/Projects/eksik.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/proxy_list.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/cities_test.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/hscanner/spiders/inactive/bcalir.py",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/hscanner/spiders/bchlook.py",
+		"/home/sohigh/Desktop/Projects/Hotellook/cities.txt",
+		"/home/sohigh/Desktop/Projects/Hotellook/6839.json",
+		"/home/sohigh/Desktop/Projects/Hotellook/6843.json",
+		"/home/sohigh/Desktop/Projects/getproxy/proxies.txt",
+		"/home/sohigh/Desktop/Projects/Hotellook/hotellook2.py",
+		"/home/sohigh/Desktop/Projects/Hotellook/city_job.sh",
+		"/home/sohigh/Desktop/Projects/Hotellook/countries.txt",
+		"/home/sohigh/Desktop/Projects/Hotellook/countryids.txt",
+		"/home/sohigh/Desktop/Projects/Hotellook/cityids.txt",
+		"/home/sohigh/Desktop/Projects/TOR IP rotate/tor_signal.py",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/Bangkok.txt",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/Bangkok.json",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/locations.txt",
+		"/home/sohigh/Desktop/Projects/Django/virt/sikik_blog/settings.py",
+		"/home/sohigh/Desktop/Projects/Django/virt/blog/models.py",
+		"/home/sohigh/Desktop/Projects/Django/virt/blog/admin.py",
+		"/home/sohigh/Desktop/Projects/TOR IP rotate/ip_renew.py",
+		"/etc/tor/torrc",
+		"/etc/privoxy/config",
+		"/home/sohigh/Desktop/deneip.py",
+		"/home/sohigh/Desktop/Projects/TOR IP rotate/tor2.py",
+		"/home/sohigh/Desktop/Projects/TOR IP rotate/ip_test.py",
+		"/home/sohigh/Desktop/Projects/Hotellook/index.json",
+		"/home/sohigh/.cache/.fr-Y8FjB2/pytorctl-master/README",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/3binustu4kez2.csv",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/bc_scrape.txt",
+		"/home/sohigh/Desktop/Projects/bc_scrape.txt",
+		"/home/sohigh/Desktop/Projects/efit/onyazi.py",
+		"/home/sohigh/Desktop/Projects/kalangoogle.txt",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/final.txt",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/google_parse.py",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/geocoding_title.sh",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/parse_job.sh",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/17022.json",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/19622\r.json",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/36615.json",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/36305.json",
+		"/home/sohigh/Desktop/Projects/Google/tekrar gelenler/geocoding.py",
+		"/home/sohigh/Desktop/Projects/Google/geocoding_title.sh",
+		"/home/sohigh/Desktop/Projects/Google/reverse/google_parse.py",
+		"/home/sohigh/Desktop/Projects/Google/geocoding.py",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/son10bin8.csv",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/31776.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/31790.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/31789.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/31788.json",
+		"/home/sohigh/Desktop/Projects/kalan.txt",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/42446.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/40571.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/38814.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/37019.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/36473.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/36015.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/35967.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/35977.json",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/188.json",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/ua_list.txt",
+		"/home/sohigh/Desktop/Projects/Hotels-Scanner/countries.txt",
+		"/home/sohigh/Desktop/Projects/oteller/adivaha/settings.py",
+		"/home/sohigh/Desktop/Projects/oteller/adivaha/settings.pyc",
+		"/home/sohigh/Desktop/Projects/oteller/adivaha/spiders/linkci.py",
+		"/home/sohigh/Desktop/Projects/oteller/adivaha/spiders/otelalir.py",
+		"/home/sohigh/Desktop/Projects/kalanlar.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/parse_json.py",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/final.txt",
+		"/home/sohigh/Desktop/Projects/Google/reverse/gelenler/google_parse.py",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/google_parse.py",
+		"/home/sohigh/Desktop/Projects/rename_files.py",
+		"/home/sohigh/Desktop/Projects/Google/gelenler/idler.txt",
+		"/home/sohigh/Desktop/Projects/Google/parse.sh",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/hscanner/spiders/bcalir.py",
+		"/home/sohigh/Desktop/Projects/Google/4064.json",
+		"/home/sohigh/Desktop/Projects/Django/RCM/src/polls/urls.py",
+		"/home/sohigh/Desktop/Projects/Django/RCM/src/polls/views.py",
+		"/home/sohigh/Desktop/Projects/Django/RCM/src/R_C_M/urls.py",
+		"/home/sohigh/Desktop/Projects/Django/RCM/src/R_C_M/settings.py",
+		"/home/sohigh/Desktop/Projects/Django/RCM/src/polls/models.py",
+		"/home/sohigh/Desktop/Projects/Django/RCM/src/polls/admin.py",
+		"/etc/apt/sources.list.d/pgdg.list",
+		"/home/sohigh/Desktop/Projects/Django/image-of-the-day/iotd/iotd/settings.py",
+		"/home/sohigh/Desktop/Projects/Django/image-of-the-day/iotd/manage.py",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/bc_scrape_4.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/bc_scrape_3.txt",
+		"/home/sohigh/Desktop/Projects/kalancheck.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/kalancheck.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/proxies.txt",
+		"/home/sohigh/Desktop/Projects/hotels-scanner.com/bc_scrape_2.txt",
+		"/home/sohigh/Desktop/Google Gelenler/final.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&\\n",
+			"\"id\":",
+			"sleep(1)\n",
+			"^\\s",
+			"forward-socks5",
+			"forward-socks6",
+			"forward-socks5",
+			"forward-socks6",
+			"forward-socks",
+			"forward-socks5",
+			"forward-socks",
+			"forward",
+			"forward socks",
+			"forward",
+			"^.+air_base.+",
+			"^.+Airport.+",
+			"^.+Air",
+			"^.+Airport.htm",
+			"^\\d+",
+			".json",
+			"&\\n",
+			"\\d+",
+			"\\n",
+			"&\\n",
+			" & ",
+			"python",
+			"\\n",
+			"&\\n",
+			"2024",
+			"\\d+",
+			"&\\n",
+			".json",
+			"&\\n",
+			"\\n",
+			"^\\d+",
+			"\" ",
+			"\" \\d+",
+			"http://",
+			"}}",
+			"data\":",
+			"(3)",
+			"2.0, 3.5",
+			"&\\n",
+			"python hotellook2.py \\d+",
+			"20.00",
+			"10.90",
+			"999999999",
+			"&\\n",
+			"\\n",
+			"$",
+			"\\n",
+			"\\d+.+:\\d+",
+			"\\t",
+			"\\n",
+			"\\r",
+			"Place",
+			"\"/",
+			"\"/Place/.+?\\.htm",
+			"="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"& ",
+			"",
+			"sleep(1)\n",
+			"sleep(1)",
+			"",
+			"& ",
+			"",
+			"& ",
+			"\n",
+			" & ",
+			".json\n",
+			"& ",
+			"",
+			"& ",
+			" ",
+			"",
+			"3",
+			"& ",
+			"3.5",
+			"2.0",
+			"2",
+			"3",
+			"& ",
+			"\\nhttp://",
+			"\nhttp://",
+			"",
+			"http://www.hotels-scanner.com/Place",
+			"",
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sikik.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
